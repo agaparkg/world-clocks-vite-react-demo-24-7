@@ -18,7 +18,7 @@ const App = () => {
             <select name="timezone" id="timezone">
               <option>- Select a timezone -</option>
               <option>Africa/Ceuta</option>;
-              <option>America/Argentina/Buenos_Aires</option>;
+              <option>Argentina/Buenos_Aires</option>;
             </select>
           </div>
         </aside>
@@ -30,7 +30,7 @@ const App = () => {
           </div>
           <div className="single-timezone">
             <span>X</span>
-            <h3 className="single-clock">America/Argentina/Buenos_Aires</h3>
+            <h3 className="single-clock">Argentina/Buenos_Aires</h3>
             <div>09:14:03 PM</div>
           </div>
           <div className="single-timezone">
